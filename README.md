@@ -1,5 +1,5 @@
-#Font viewer#  
-###Small font utility for Windows###  
+# Font viewer  
+### Small font utility for Windows  
   
 -Show OTF/TTF/FON fonts  
 -Install fonts  
